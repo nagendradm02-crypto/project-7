@@ -1,0 +1,139 @@
+# =========================
+# Python Cache Files
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Virtual Environments
+# =========================
+venv/
+env/
+ENV/
+.venv/
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# IDE Settings
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Operating System Files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Environment Variables
+# =========================
+.env
+.env.*
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Build Files
+# =========================
+build/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# =========================
+# Testing
+# =========================
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# =========================
+# Model Files
+# =========================
+trained_model.pkl
+scaler.pkl
+
+# =========================
+# Generated Reports
+# =========================
+project_report.pdf
+
+# =========================
+# Generated Visualizations
+# =========================
+traffic_trend.png
+prediction_results.png
+
+# =========================
+# Processed Data
+# =========================
+data/processed/
+*.csv.bak
+
+# =========================
+# Temporary Files
+# =========================
+*.tmp
+*.temp
+*.swp
+
+# =========================
+# Python Tool Cache
+# =========================
+.mypy_cache/
+.ruff_cache/
+.pyre/
+
+# =========================
+# Jupyter Runtime
+# =========================
+.jupyter/
+
+# =========================
+# Spyder
+# =========================
+.spyproject/
+
+# =========================
+# Rope
+# =========================
+.ropeproject/
+
+# =========================
+# Local Database Files
+# =========================
+*.db
+*.sqlite3
+
+# =========================
+# Backup Files
+# =========================
+*.bak
+*.old
+
+# =========================
+# Generated Files
+# =========================
+*.pdf
+*.png
